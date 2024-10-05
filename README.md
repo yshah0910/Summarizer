@@ -2,6 +2,12 @@
 # AI Text Summarization Web Application
 This is a web-based application that provides users with an easy-to-use interface to summarize long pieces of text. The app handles user requests, processes the text using natural language processing techniques, and delivers a concise summary.
 
+## Screenshots
+
+Here is a screenshot of the AI Text Summarization Web Application:
+
+![App Screenshot](./static/images/a1sum.png)
+
 ## Features
 Text Summarization: Automatically generate a concise summary of any given text.
 
